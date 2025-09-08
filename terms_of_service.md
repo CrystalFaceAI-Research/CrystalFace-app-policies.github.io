@@ -22,6 +22,7 @@ You may use CrystalFace for personal and entertainment purposes. You must not:
 
 - Use the App for illegal, fraudulent, or harmful activities.  
 - Harass, impersonate, or defame other people.
+- Upload offensive or inappropriate content.
 
 ---
 
