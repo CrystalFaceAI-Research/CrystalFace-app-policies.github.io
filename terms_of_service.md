@@ -1,5 +1,5 @@
 # Terms of Service – CrystalFace
-**Effective Date:** September 1, 2025  
+**Effective Date:** October 15, 2025  
 **App:** CrystalFace  
 **Developer:** CrystalFace AI
 
@@ -16,13 +16,12 @@ These Terms of Service (“Terms”) govern your use of the CrystalFace app (“
 
 ---
 
-## 2. Permitted Use
+## 2. Disclaimers
 
-You may use CrystalFace for personal and entertainment purposes. You must not:
-
-- Use the App for illegal, fraudulent, or harmful activities.  
-- Harass, impersonate, or defame other people.
-- Upload offensive or inappropriate content.
+- CrystalFace is provided **“as is”** and **“as available.”**  
+- We do not guarantee uninterrupted service or error-free results.  
+- Face-swapping results may vary and should be used responsibly.  
+- We are not responsible for misuse of the App by users, including illegal or harmful activities.  
 
 ---
 
@@ -39,7 +38,7 @@ You may use CrystalFace for personal and entertainment purposes. You must not:
 
 - CrystalFace is free to use and supported by ads. Optional subscriptions are also offered.  
 - We reserve the right to modify features, show ads, or offer premium services.  
-- The App will remain available unless we are required by law enforcement or legal authorities to suspend or discontinue it.  
+- The App will remain available unless we are **required** to suspend or discontinue it.  
 
 ---
 
@@ -47,17 +46,18 @@ You may use CrystalFace for personal and entertainment purposes. You must not:
 
 - Since CrystalFace does not permanently store user profiles or uploaded media, most data is automatically deleted within 24 hours.  
 - If you wish to delete **subscription logs, processing logs, or identities you created** associated with your account, you can contact us at:  
-  📧 **crystalfaceai@gmail.com**  
+  📧 **sup.crystalfaceai@gmail.com**  
 - For more information about what data we collect and how we handle it, please see our [Privacy Policy](privacy_policy.md)  
 
 ---
 
-## 6. Disclaimers
+## 6. Permitted Use
 
-- CrystalFace is provided **“as is”** and **“as available.”**  
-- We do not guarantee uninterrupted service or error-free results.  
-- Face-swapping results may vary and should be used responsibly.  
-- We are not responsible for misuse of the App by users, including illegal or harmful activities.  
+You may use CrystalFace for personal and entertainment purposes. You must not:
+- Use the App for illegal, fraudulent, or harmful activities.  
+- Harass, impersonate, or defame other people.
+- Use faces of people without consent.
+- Create offensive or inappropriate content.
 
 ---
 
@@ -92,4 +92,4 @@ We may update these Terms from time to time. Updates will be communicated via a 
 ## 11. Contact Us
 
 For questions about these Terms, please contact us at:  
-📧 **crystalfaceai@gmail.com**
+📧 **sup.crystalfaceai@gmail.com**
