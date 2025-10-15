@@ -10,7 +10,7 @@ If you would like to delete the data we store about you, including subscription 
 
 To request deletion of your stored data, please send an email to:
 
-📧 **crystalfaceai@gmail.com**
+📧 **sup.crystalfaceai@gmail.com**
 
 **Subject line:** Data Deletion Request  
 
