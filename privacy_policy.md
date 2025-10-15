@@ -1,5 +1,5 @@
 # Privacy Policy – CrystalFace
-**Effective Date:** September 1, 2025  
+**Effective Date:** October 15, 2025  
 **App:** CrystalFace  
 **Developer:** CrystalFace AI
 
@@ -111,4 +111,4 @@ Updates will be shown via a popup inside the app and hosted on this page.
 ## 10. Contact Us
 
 If you have questions about this Privacy Policy, contact us:  
-📧 **crystalfaceai@gmail.com**
+📧 **sup.crystalfaceai@gmail.com**
