@@ -77,19 +77,13 @@ To the maximum extent permitted by law, CrystalFace AI and its developers shall 
 
 ---
 
-## 9. Governing Law
-
-These Terms are governed by the laws of [Your Country]. Any disputes shall be resolved under the jurisdiction of the courts in [Your Country].
-
----
-
-## 10. Changes to the Terms
+## 9. Changes to the Terms
 
 We may update these Terms from time to time. Updates will be communicated via a popup inside the App.
 
 ---
 
-## 11. Contact Us
+## 10. Contact Us
 
 For questions about these Terms, please contact us at:  
 📧 **sup.crystalfaceai@gmail.com**
