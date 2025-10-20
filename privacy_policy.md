@@ -57,7 +57,7 @@ We **do not** sell, trade, or share your photos or videos for other purposes.
 Since CrystalFace does not permanently store user profiles or uploaded media, most data is automatically deleted within 24 hours.  
 
 If you wish to delete your **subscription log data, processing count logs, or created identities**, you can contact us at:  
-📧 **crystalfaceai@gmail.com**
+📧 **sup.crystalfaceai@gmail.com**
 
 ---
 
